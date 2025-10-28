@@ -1,6 +1,6 @@
 import { Card } from "@/components/ui/card";
 import { Award, Briefcase, Code2 } from "lucide-react";
-import aboutImage from "@assets/generated_images/Professional_developer_headshot_5de4a412.png";
+import aboutImage from "@assets/generated_images/Snapchat-1983312326.jpg";
 
 export function About() {
   const stats = [
