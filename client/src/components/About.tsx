@@ -43,7 +43,7 @@ export function About() {
 
           <div className="space-y-6">
             <p className="text-base md:text-lg text-foreground/80" data-testid="text-bio-1">
-              I'm a Full Stack Developer currently working at <span className="font-semibold text-foreground">Micronic InfoTech Pvt. Limited</span> in Jaipur, where I build scalable web applications using cutting-edge technologies.
+              I'm a Full Stackkkkkk Developer currently working at <span className="font-semibold text-foreground">Micronic InfoTech Pvt. Limited</span> in Jaipur, where I build scalable web applications using cutting-edge technologies.
             </p>
             <p className="text-base md:text-lg text-foreground/80" data-testid="text-bio-2">
               My journey in software development began with a Bachelor's in Computer Applications from Rajasthan University, followed by a Master's in Computer Applications with a specialization in <span className="font-semibold text-foreground">AI & Machine Learning</span> from Chandigarh University.
