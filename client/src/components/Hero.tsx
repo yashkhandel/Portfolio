@@ -137,7 +137,7 @@ export function Hero() {
           </div>
           <div className="flex items-center gap-2" data-testid="tech-javascript">
             <SiJavascript className="h-6 w-6" />
-            <span className="text-sm font-medium">JavaScript</span>
+            <span className="text-sm font-medium">TypeScript</span>
           </div>
         </div>
       </div>
